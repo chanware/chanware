@@ -1,37 +1,10 @@
-<h1 align="center">Channing Brown.exe</h1>
+<h1 align="center">Channing Brown</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stack+Sans+Headline&size=26&duration=2000&pause=700&color=0A246A&center=true&width=435&lines=DIY+dev+logs;Accessibility-first+engineering;Formula+1+fandom" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Stack+Sans+Headline&size=26&duration=2000&pause=700&color=E593F1&center=true&width=520&lines=Accessibility-first+developer;DIY+tinkerer+%26+writer;Formula+1+fanatic" alt="Typing SVG"/>
+  </a>
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/@chan-brown">
-        <img src="https://raw.githubusercontent.com/chanware/Github-READMEs/main/assets/icons/youtube.svg" width="48" alt="YouTube"/><br/>
-        <sub>YouTube</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/channingsbrown/">
-        <img src="https://raw.githubusercontent.com/chanware/Github-READMEs/main/assets/icons/linkedin.svg" width="48" alt="LinkedIn"/><br/>
-        <sub>LinkedIn</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://chanbrown.com">
-        <img src="https://raw.githubusercontent.com/chanware/Github-READMEs/main/assets/icons/website.svg" width="48" alt="Site"/><br/>
-        <sub>Portfolio</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://ko-fi.com/chanbrown">
-        <img src="https://raw.githubusercontent.com/chanware/Github-READMEs/main/assets/icons/kofi.svg" width="48" alt="Ko-fi"/><br/>
-        <sub>Ko-fi</sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="https://github.com/chanware?tab=repositories&sort=stargazers">
@@ -42,39 +15,22 @@
   </a>
 </p>
 
-```text
-┌────────────── ABOUTME.TXT ──────────────┐
-│ I'm Channing, a deaf developer who     │
-│ blends accessibility-first builds, DIY │
-│ tinkering, long-form writing, and F1.  │
-│ • Web experiences with Astro + friends │
-│ • Dev logs on YouTube + essays online  │
-│ • Deaf community tools and advocacy    │
-│ • Open to collabs, talks, experiments  │
-└────────────────────────────────────────┘
-```
+## 👋 About
 
-```text
-┌────────────── BUILDLOGS.INI ────────────┐
-│ Current obsessions:                    │
-│ • Event Attendance Tracker             │
-│   Low-friction volunteer check-ins     │
-│ • Deaf Event Finder                    │
-│   FOSS map of meetups and workshops    │
-│ • Game Dev Tinkering                   │
-│   Narrative prototypes with captions   │
-└────────────────────────────────────────┘
-```
+- Deaf developer building accessibility-first experiences, docs, and tools.
+- DIY tinkerer who documents every build log and glitch for the community.
+- Writer + advocate amplifying Deaf creators and inclusive workflows.
+- Always curious about collaborations, creative coding, and speaking gigs.
 
-```text
-┌────────────── STACK.EXE ───────────────┐
-│ Favorite languages, tools, and badges  │
-│ load below like a retro driver list.   │
-└────────────────────────────────────────┘
-```
+## 🔧 Currently Building
 
-#### 👨‍💻 Programming and Markup Languages
+- **Event Attendance Tracker** – volunteer-friendly check-ins for Deaf events.
+- **Deaf Event Finder** – FOSS map of meetups, workshops, and pop-ups.
+- **Narrative Game Experiments** – caption-first prototypes with haptics.
 
+## 🧰 Favorite Tools
+
+### Languages
 <p>
   <a href="https://github.com/search?q=user%3Achanware+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/></a>
   <a href="https://github.com/search?q=user%3Achanware+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"/></a>
@@ -95,8 +51,7 @@
   <a href="https://github.com/search?q=user%3Achanware+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"/></a>
 </p>
 
-#### 🧰 Frameworks & Platforms
-
+### Frameworks & Platforms
 <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"/></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"/></a>
@@ -110,13 +65,12 @@
   <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"/></a>
   <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"/></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"/></a>
-  <a href="#"><img alt="Wordpress" src="https://img.shields.io-badge/Wordpress-21759B?logo=wordpress&logoColor=white"/></a>
+  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"/></a>
   <a href="#"><img alt="WinForms" src="https://img.shields.io/badge/WinForms-5C2D91.svg?logo=.net&logoColor=white"/></a>
   <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"/></a>
 </p>
 
-#### 🗄️ Databases & Cloud Hosting
-
+### Databases & Cloud Hosting
 <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"/></a>
   <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"/></a>
@@ -128,8 +82,7 @@
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"/></a>
 </p>
 
-#### 💻 Software & Tools
-
+### Software & Tools
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"/></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"/></a>
@@ -150,11 +103,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/></a>
 </p>
 
-```text
-┌────────────── STATS.BMP ───────────────┐
-│ Activity snapshots render down below. │
-└────────────────────────────────────────┘
-```
+## 📊 Stats & Activity
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -170,10 +119,3 @@
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="chanware's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=chanware&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
 </p>
-
-```text
-┌─[Start]──────────────────────────────LIVE─┐
-│ About.txt │ Buildlogs.ini │ Stack.exe │   │
-│ Stats.bmp │ chanbrown.com │ YouTube   │   │
-└───────────────────────────────────────────┘
-```
