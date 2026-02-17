@@ -89,16 +89,3 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/></a>
 </p>
 
-## 📊 Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Get streak stats at git.io/streak-stats" alt="chanware's streak" src="https://streak-stats.demolab.com/?user=chanware&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="chanware's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=chanware&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="chanware's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanware&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-</p>
-
