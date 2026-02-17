@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Stack+Sans+Headline&size=26&duration=2000&pause=700&color=E593F1&center=true&width=520&lines=Accessibility-first+developer;DIY+tinkerer+%26+writer;Formula+1+fanatic" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Stack+Sans+Headline&size=26&duration=2000&pause=700&color=E593F1&center=true&width=520&lines=Developer;DIYer+tinkerer+%26+writer;Formula+1+fanatic" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -15,20 +15,6 @@
   </a>
 </p>
 
-## 👋 About
-
-- Deaf developer building accessibility-first experiences, docs, and tools.
-- DIY tinkerer who documents every build log and glitch for the community.
-- Writer + advocate amplifying Deaf creators and inclusive workflows.
-- Always curious about collaborations, creative coding, and speaking gigs.
-
-## 🔧 Currently Building
-
-- **Event Attendance Tracker** – volunteer-friendly check-ins for Deaf events.
-- **Deaf Event Finder** – FOSS map of meetups, workshops, and pop-ups.
-- **Narrative Game Experiments** – caption-first prototypes with haptics.
-
-## 🧰 Favorite Tools
 
 ### Languages
 <p>
