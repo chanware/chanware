@@ -1,4 +1,4 @@
-<h1 align="center">Channing Brown</h1>
+<h1 align="center">Channing</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
