@@ -3,11 +3,9 @@
 ![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&section=header&text=channing&fontSize=50&fontColor=ffffff)
 
 ### 👨‍💻 About Me
-I'm an engineer who likes to build applications for improving QOL or just for fun. Games, web apps, automation services, etc.
+I'm a system engineer who also likes to build applications for improving QOL or just for fun. Games, web apps, automation services, etc.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Blog](https://img.shields.io/badge/Blog-8A2BE2?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)
+[![Blog](https://img.shields.io/badge/Blog-8A2BE2?style=for-the-badge&logo=hashnode&logoColor=white)](https://chanbrown.com)
 
 ---
 
